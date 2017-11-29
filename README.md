@@ -1,0 +1,2 @@
+# minimag-boutique
+Boutique minimag
