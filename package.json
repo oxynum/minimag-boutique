@@ -27,5 +27,7 @@
     "express-handlebars": "^3.0.0",
     "express-http-auth": "^0.1.0"
   },
-  "bin": "server.js"
+  "bin": {
+    "minimag-boutique": "bin/minimag-boutique.js"
+  }
 }
