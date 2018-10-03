@@ -1,0 +1,59 @@
+{
+    "shopInfo": {
+        "name": "",
+        "address": "",
+        "postalCode": 0,
+        "city": "",
+        "country": "",
+        "tel": "",
+        "websiteUrl": ""
+    },
+    "messageOptions": {
+        "promo": "",
+        "thanks": "",
+        "info": ""
+    },
+    "bag": [
+        {
+            "name": "",
+            "quantity": "",
+            "unitPrice": 0,
+            "tvaPrice": 0,
+            "productDiscount":0,
+            "productDiscQuantity":0
+        },
+        {
+            "name": "",
+            "quantity": "",
+            "unitPrice": 0,
+            "tvaPrice": 0,
+            "productDiscount":0,
+            "productDiscQuantity":0
+        }
+    ],
+    "totalTVA": 0,
+    "totalPrice": 0,
+    "globalDiscountOnTicket":0,
+    "clientId": "#122332",
+    "ticketId": 154587,
+    "isPaidBy": {   
+        "card": {
+            "value":true,
+            "amount":23
+        },
+        "cash": {
+            "value":true,
+            "amount":23,
+             "moneyBack":0
+        },
+        "cheque": {
+            "value":true,
+            "amount":23
+        },
+        "giftCard": {
+            "value":true,
+            "amount":23
+        }
+    },
+    "ticketType": "refund || pay || paygift || refundgift || duplicate"
+}
